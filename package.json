@@ -1,13 +1,14 @@
 {
-  "name": "ccb",
+  "name": "custom-commands-discord-bot",
   "version": "1.0.0",
-  "main": "Main.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node main.js"
   },
   "type": "commonjs",
   "keywords": [],
-  "author": "",
+  "author": "SatinCake",
   "license": "ISC",
   "description": "",
   "dependencies": {
