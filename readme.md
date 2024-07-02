@@ -10,7 +10,7 @@ This guide will help you get started with running a simple Discord bot that resp
 
 ## Step 1: Download the Bot Files
 
-Visit the [repository page](https://github.com/SatinCake/custom-commands-discord-bot) on GitHub. Click the green "Code" button, then select "Download ZIP". Extract the contents of the ZIP file to a folder on your computer.
+Visit the [repository page](https://github.com/SatinCake/custom-commands-discord-bot) on GitHub. Click the green/blue "Code" button, then select "Download ZIP". Extract the contents of the ZIP file to a folder on your computer.
 
 ## Step 2: Install Node.js Packages
 
