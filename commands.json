@@ -1,0 +1,12 @@
+{
+  "commands": [
+    {
+      "input": "goodbye",
+      "response": "Goodbye Have a great day!"
+    },
+    {
+      "input": "hello",
+      "response": "Hello hope you have a great day!"
+    }
+  ]
+}
