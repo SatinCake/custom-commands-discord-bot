@@ -1,4 +1,4 @@
-# Simple Discord Bot Setup Guide for Beginners
+# Custom Commands Discord Bot Setup Guide
 
 This guide will help you get started with running a simple Discord bot that responds to custom commands. No coding experience required!
 
